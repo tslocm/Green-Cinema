@@ -1,0 +1,4 @@
+.panelLogin{
+    -fx-background-image: url('image/background_login.jpg');
+    -fx-background-size: 100% 100%;
+}
